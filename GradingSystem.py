@@ -1,4 +1,4 @@
-print('*************** STUDENT GRADING SYSTEM **************')
+print('************** STUDENT GRADING SYSTEM **************')
 print('Please enter student mark or score')
 mark = int(input('Enter student mark: '))
 
